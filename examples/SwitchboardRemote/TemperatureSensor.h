@@ -65,4 +65,3 @@ private:
 	bool mError;
 	String mErrorMsg;
 };
-

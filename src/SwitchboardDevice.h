@@ -1,5 +1,7 @@
 #pragma once
 
+#include "ValueDecode.h"
+
 #include <functional>
 #include <WString.h>
 #include <ArduinoJson.h>
