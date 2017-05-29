@@ -7,8 +7,8 @@
 #include "TemperatureSensor.h"
 #include "IRSender.h"
 
-const char* ssid     = "SSID";
-const char* password = "PASSWORD";
+const char* ssid     = "UPC241011263";
+const char* password = "tRqa9jN7pftk";
 
 ESP8266WebServer server(80);
 ESP8266SwitchboardClient<800, 400> swbClient(server);
